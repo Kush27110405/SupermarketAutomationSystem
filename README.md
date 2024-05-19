@@ -44,7 +44,7 @@ In case the data.json file crashes during file modification, there is a backup.j
 ```
 
 ## Authors
-lalith chatala
+Kush Milkesh Mistry
 
 ## Version History
 
